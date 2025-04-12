@@ -1,0 +1,3 @@
+What is GO ?
+    เป็น opensource programming language ที่สร้างโดย google
+    โดยเป็นภาษาที่มีประสิทธิภาพสูง โดยนิยมนำมาสร้าง Networking & API, Micorservices, CLI Tools

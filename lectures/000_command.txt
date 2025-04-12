@@ -1,0 +1,5 @@
+go run <file_name.go>
+    รันไฟล์
+
+go mod init <module_name>
+    สร้างโปรเจค go

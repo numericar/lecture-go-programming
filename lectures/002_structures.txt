@@ -7,6 +7,9 @@ package
         package utility มีไฟล์ C, D
     โดย package ใช้สำหรับจัดระเบียบโครงสร้างไฟล์ของโปีเจคเรา
 
+    โดนปกติแล้ว package main จะเป็น special package name 
+    ทำให้ระบบรู้ว่านี่คือ package แรกของระบบ
+
 import
 
 func main()

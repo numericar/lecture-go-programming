@@ -1,0 +1,9 @@
+fmt.Scan()
+    ใช้ในการรับ input ผ่าน console
+    โดยการใช้งานจะต้องใช้ร่วมกับ pointer
+    เช่น
+
+    var amount int32
+    fmt.Scan(&amount)
+
+    & = pointer

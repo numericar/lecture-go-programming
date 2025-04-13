@@ -17,3 +17,9 @@ null ของภาษา go แต่ละชนิดข้อมูล
     - float64: 0.0
     - string: ""
     - bool: false
+
+มี short cut ในการสร้างตัวแปร
+แบบเดิม 
+    var variable_name = value
+แบบใหม่
+    variable_name := value

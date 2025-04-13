@@ -3,3 +3,6 @@ go run <file_name.go>
 
 go mod init <module_name>
     สร้างโปรเจค go
+
+go run .
+    รััน module
